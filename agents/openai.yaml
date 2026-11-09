@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICTY 官网检索"
+  short_description: "检索 ICTY 案件页、新闻稿和公开遗产页面"
+  default_prompt: "使用 $ICTYSearcher 检索 ICTY 官网；报告页面类型、链接和实际读取的正文范围，判例全文改用 LegalToolsSearcher。"
