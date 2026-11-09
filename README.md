@@ -2,7 +2,7 @@
 
 独立检索 ICTY 官网的案件页、新闻稿和公开遗产页面。只访问 `icty.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/ICTYSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/ICTYSearcher>（公开）。
 
 ## 1. 环境
 
