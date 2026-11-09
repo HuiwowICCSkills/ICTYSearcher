@@ -2,7 +2,7 @@
 
 独立检索 ICTY 官网的案件页、新闻稿和公开遗产页面。只访问 `icty.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/ICTYSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/ICTYSearcher>（私有）。
 
 ## 1. 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 2. 安装
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/ICTYSearcher.git "$env:USERPROFILE\.codex\skills\ICTYSearcher"
+git clone https://github.com/HuiwowICCSkills/ICTYSearcher.git "$env:USERPROFILE\.codex\skills\ICTYSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\ICTYSearcher\requirements.txt"
 ```
 
